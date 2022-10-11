@@ -1,0 +1,19 @@
+{
+  "name": "cohort_037_038-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afrosemobeen/cohort_037_038-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afrosemobeen/cohort_037_038-nodejs/issues"
+  },
+  "homepage": "https://github.com/Afrosemobeen/cohort_037_038-nodejs#readme"
+}
